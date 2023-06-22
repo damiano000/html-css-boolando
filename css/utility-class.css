@@ -1,0 +1,47 @@
+
+/* UTILITY CLASS CSS*/
+.flexible{
+    display: flex;
+}
+
+.container-80{
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Header elements*/
+
+.orange{
+    text-align: center;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 3;
+    background-color: orangered;
+
+main{
+    padding-top: 100px;
+}
+.textcenter span{
+    padding: 10px;
+}
+
+.hd div img{
+    width: 30%;
+}
+#icons{
+    color: #fff;
+    display: inline-block;
+    padding: 0 10px;
+}
+#container{
+    text-align: center;
+    padding: 20px;
+   margin-left: 40px;
+
+}
+.textcentr {
+    margin-top: 0 auto;
+    margin-bottom: 0;
+}
+}
